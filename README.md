@@ -7,6 +7,6 @@
  
  [урок 5](https://codepen.io/denisholmov/pen/YdKBGP "Моя готовая домашка")
  
- [урок 6](https://denisholmov.github.io/lesson%206/indexx.html "Моя готовая домашка")
+ [урок 6 1 задание](https://denisholmov.github.io/lesson%206/indexx.html "Моя готовая домашка")
  
  [урок 7](https://denisholmov.github.io/lesson_7/DZmaket.html "Моя готовая домашка")
