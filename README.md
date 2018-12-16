@@ -5,4 +5,6 @@
  
  [урок 4](https://codepen.io/denisholmov/pen/wRwrZm "Моя готовая домашка")
  
+ [урок 5](https://codepen.io/denisholmov/pen/YdKBGP "Моя готовая домашка")
+ 
  [урок 7](https://denisholmov.github.io/lesson_7/DZmaket.html "Моя готовая домашка")
