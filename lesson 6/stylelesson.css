@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+}
+
+.block	{
+	background-color: #FFFFFF;
+	height: 100px;
+	color:#757575;
+}
+
+#block_1 {
+	display: inline-block;
+	margin-left: 100px;
+	margin-top: 30px;
+	color: #0e0e0e;
+	font-family: sans-serif;
+}
+
+ul {
+	list-style: none;
+	float: right;
+	padding: 0;
+	margin-top: 30px;
+	margin-right: 100px;
+}
+li {
+	float: left;
+	margin: 10px;
+}
+
+a {
+	color:#757575;
+	text-decoration: none;
+	font-family: sans-serif;
+}
+
+.block-3 {
+	background-color: #e2e2e2;
+	height: 560px;
+}
