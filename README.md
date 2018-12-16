@@ -9,6 +9,6 @@
  
  [урок 6 1 задание](https://denisholmov.github.io/lesson%206/indexx.html "Моя готовая домашка")
  
-  [урок 6 2   задание]( "Моя готовая домашка")
+  [урок 6 2   задание](denisholmov.на GitHub.Ио/Урок 6 2 задание/yandexx.HTML "Моя готовая домашка")
  
  [урок 7](https://denisholmov.github.io/lesson_7/DZmaket.html "Моя готовая домашка")
