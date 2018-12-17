@@ -12,3 +12,5 @@
   [урок 6 2  задание](https://denisholmov.github.io/lesson%206%202%20задание/yandexx.html "Моя готовая домашка")
  
  [урок 7](https://denisholmov.github.io/lesson_7/DZmaket.html "Моя готовая домашка")
+ 
+ [урок 8](https://denisholmov.github.io/урок%208/project.html "Моя готовая домашка")
