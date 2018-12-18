@@ -15,4 +15,4 @@
  
  [урок 8](https://denisholmov.github.io/урок%208/project.html "Моя готовая домашка")
 
-[урок 9](denisholmov.github.io/урок 9/indexbt.html "Моя готовая домашка")
+[урок 9](https://denisholmov.github.io/урок%209/indexbt.html "Моя готовая домашка")
