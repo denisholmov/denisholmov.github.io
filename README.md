@@ -21,4 +21,6 @@
 
 [урок 13](https://denisholmov.github.io/урок%2013/yrok.html "Моя готовая домашка")
 
-[урок 14](https://denisholmov.github.io/урок%2014/index.html "Моя готовая домашка")
+[модуль 5. практика часть 1](https://denisholmov.github.io/урок%2014/index.html "Моя готовая домашка")
+
+[подключение шрифта урок 14](https://denisholmov.github.io/подключение%20шрифтов/index.html "Моя готовая домашка")
