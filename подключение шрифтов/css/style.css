@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('../bebas/transfooter/BebasNeueRegular.eot');
+    src: url('../bebas/transfooter/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+        url('../bebas/transfooter/BebasNeueRegular.woff2') format('woff2'),
+        url('../bebas/transfooter/BebasNeueRegular.woff') format('woff'),
+        url('../bebas/transfooter/BebasNeueRegular.ttf') format('truetype'),
+        url('../bebas/transfooter/BebasNeueRegular.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('../lato/transfonter/Lato-Regular.eot');
+    src: url('../lato/transfonter/Lato-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../lato/transfonter/Lato-Regular.woff2') format('woff2'),
+        url('../lato/transfonter/Lato-Regular.woff') format('woff'),
+        url('../lato/transfonter/Lato-Regular.ttf') format('truetype'),
+        url('../lato/transfonter/Lato-Regular.svg#Lato-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.font-opensans {
+	font-family: 'Open Sans';
+}
+
+.font-bebas {
+	font-family: 'Bebas Neue';
+}
+
+.font-lato {
+	font-family: 'Lato';
+}
+
+.font-lobster {
+	font-family: 'lobster';
+}
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
