@@ -28,3 +28,5 @@
 [модуль 5. практика часть 2](https://denisholmov.github.io/модуль%205%20практика%202/index.html "Моя готовая домашка")
 
 [модуль 5. урок номер 15](https://denisholmov.github.io/архив%20дз%20пвсевдоклассы/index.html "Моя готовая домашка")
+
+[урок 16](https://denisholmov.github.io/урок%2016/index.html "Моя готовая домашка")
