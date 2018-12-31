@@ -30,3 +30,5 @@
 [модуль 5. урок номер 15](https://denisholmov.github.io/архив%20дз%20пвсевдоклассы/index.html "Моя готовая домашка")
 
 [урок 16](https://denisholmov.github.io/урок%2016/index.html "Моя готовая домашка")
+
+[урок 17](https://denisholmov.github.io/модуль%205%20урок%2017/index.html "Моя готовая домашка")
