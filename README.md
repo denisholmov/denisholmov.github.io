@@ -32,3 +32,5 @@
 [Модуль 5 практика часть 3](https://denisholmov.github.io/урок%2016/index.html "Моя готовая домашка")
 
 [Модуль 5 практика часть 4](https://denisholmov.github.io/модуль%205%20урок%2017/index.html "Моя готовая домашка")
+
+[урок 17](https://denisholmov.github.io/урок%2017/window.html "Моя готовая домашка")
