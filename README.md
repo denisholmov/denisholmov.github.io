@@ -36,3 +36,7 @@
 [модуль 5 урок 17](https://denisholmov.github.io/урок%2017/window.html "Моя готовая домашка")
 
 [модуль 5 практика 5](https://denisholmov.github.io/модуль%205%20практика%205/index.html "Моя готовая домашка")
+
+[модуль 5 урок 18 (таб)](https://denisholmov.github.io/модуль%205%20урок%2018/tab.html "Моя готовая домашка")
+
+[модуль 5 урок 18 (аккордеон)](https://denisholmov.github.io/модуль%205%20урок%2018/accordeon.html "Моя готовая домашка")
