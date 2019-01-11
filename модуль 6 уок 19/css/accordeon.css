@@ -1,0 +1,38 @@
+h1 {
+	text-align: center;
+	color: #0bbaf0;
+}
+hr {
+	width: 125px;
+	 border: none; /* Убираем границу */
+    background-color: #cbcdce; /* Цвет линии */
+    color: #cbcdce; /* Цвет линии для IE6-7 */
+    height: 1px; 
+}
+h1 {
+	text-transform: uppercase;
+}
+.text1 {
+	font-size: 36px;
+}
+.text2 {
+	font-size: 24px;
+}
+
+#headingOne, #headingTwo, #headingThree, #headingFour, #headingFive {
+	background-color: #0bbaf0;
+}
+.panel-title {
+	color: #ffffff;
+}
+.panel {
+	display: inline-block;
+}
+.container {
+	text-align: center;
+}
+
+
+
+
+
