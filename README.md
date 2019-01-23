@@ -47,4 +47,6 @@
 
 [модуль 6 урок 20 видео фон](https://denisholmov.github.io/модуль%206%20урок%2020/index.html "Моя готовая домашка")
 
+[модуль 6 урок 21](https://denisholmov.github.io/модуль%206%20урок%2021/index.html "Моя готовая домашка")
+
 [модуль 6 практики](https://denisholmov.github.io/модуль%206%20практики/index.html "Моя готовая домашка")
