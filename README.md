@@ -49,4 +49,6 @@
 
 [модуль 6 урок 21](https://denisholmov.github.io/модуль%206%20урок%2021/index.html "Моя готовая домашка")
 
+[модуль 6 урок 22](https://denisholmov.github.io/модуль6%20урок%2022/index.html "Моя готовая домашка")
+
 [модуль 6 практики](https://denisholmov.github.io/модуль%206%20практики/index.html "Моя готовая домашка")
